@@ -109,7 +109,7 @@ const ProductList = () => {
 	return (
 		<Container padding='0 1rem 4rem 1rem'>
 			<Stack spacing='major-4'>
-				<Heading use='h1'>Produtos</Heading>
+				<Heading use='h1'>Coleção Veritas</Heading>
 				<Columns>
 					{products.map(product => (
 						<Columns.Column key={product.id} spreadTablet={12} spreadWidescreen={6} spread={6}>
