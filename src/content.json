@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "id": "pfs",
+      "title": "Edição Limitada - Camiseta Pecadores Feitos Santos",
+      "price": 89.70,
+      "description": "Camiseta de grife, 100% algodão feita com silk-screen",
+      "colors": [
+        "WHITE",
+        "BLACK"
+      ],
+      "genders": [
+        "BOY",
+        "GIRL"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "info": "Uma vez éramos pecadores, hoje devido ao sacrifício de Jesus fomos feitos santos.",
+      "images": {
+        "default": "pfs-black.jpg",
+        "color": {
+          "white": [
+            "pfs-white.jpg"
+          ],
+          "black": [
+            "pfs-black.jpg"
+          ]
+        }
+      }
+    },
+
+      {
+              "id": "hoodie",
+              "title": "Edição Limitada - Moletom Jesus é",
+              "price": 199.70,
+              "description": "Moletom com capuz e bolso canguru de grife, 100% algodão feito com silk-screen",
+              "colors": [
+                "WHITE"
+              ],
+              "genders": [
+                "BOY"
+              ],
+              "sizes": [
+                "S",
+                "M",
+                "L"
+              ],
+              "info": "Jesus é tudo aquilo que precisamos, Ele é amor, Ele é alegria, Ele é o caminho, Ele é a verdade, Ele é a vida Ele é a paz, ELE É!",
+              "images": {
+                "default": "hoodie-white.jpg",
+                "color": {
+                  "white": [
+                    "hoodie-white.jpg"
+                  ],
+                  "black": [
+                    "hoodie-black.jpg"
+                  ]
+                }
+              }
+    }, 
+
+    {
+      "id": "verse",
+      "title": "Edição Limitada - Camiseta João 3:16",
+      "price": 89.70,
+      "description": "Camiseta de grife, 100% algodão feita com silk-screen",
+      "colors": [
+        "WHITE",
+        "BLACK"
+      ],
+      "genders": [
+        "BOY",
+        "GIRL"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "info": "João 3:16 - “Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.” João‬ ‭3:16‬ ‭NVI.‬‬",
+      "images": {
+        "default": "verse-black.jpg",
+        "color": {
+          "white": [
+            "verse-white.jpg"
+          ],
+          "black": [
+            "verse-black.jpg"
+          ]
+        }
+      }
+    }
+  ]
+}
